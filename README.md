@@ -1,4 +1,4 @@
-# Delhi_Climate
+# Delhi Climate
 
 ##
 This repository contains a jupyter notebook file with a time series analysis of Delhi climate from the years 2014 to 2017.  To access the Jupyter Notebook, simply click on the "Delhi Climate Analysis and Prediction" in the main.  The dataset is from Kaggle and was originally collected using the Weather Underground API.
